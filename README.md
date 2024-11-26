@@ -25,3 +25,5 @@ This is a simple Ping Pong game where you can play against an AI opponent. The g
 pip3 install pygame
 
 ctrl+c to exit
+
+w-s keys for paddle control.
