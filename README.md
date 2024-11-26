@@ -23,3 +23,5 @@ This is a simple Ping Pong game where you can play against an AI opponent. The g
 2. Install Pygame using pip:
 ```bash
 pip3 install pygame
+
+ctrl+c to exit
